@@ -1,9 +1,7 @@
+title: "OS Coursework Journal (A00027118)"
+description: "CMPN202 Technical Journal (Week 1–7)"
 theme: minima
-title: OS Coursework Journal
-descripton: CMPN202 Technical Journal (Week 1-7)
 
-cat << 'EOF' > _config.yml
-theme: minima
-title: OS Coursework Journal
-descripton: CMPN202 Technical Journal (Week 1-7)
-
+markdown: kramdown
+plugins:
+  - jekyll-feed
