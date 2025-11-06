@@ -11,3 +11,5 @@ title: Week 1 — System Setup and Baseline Evidence
 SSH:
 
 Baseline evidence:
+
+![Baseline Screenshot](assets/imgs/week1/my_screenshot.png)
