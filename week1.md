@@ -1,14 +1,23 @@
-# Week 1 - System Setup and Baseline Evidenve
+---
+layout: default
+title: Week 1 — System Setup and Baseline Evidence
+---
+
+# Week 1 — System Setup and Baseline Evidence
+
 ## System Setup Summary
 - Server OS: Ubuntu Server
-- Worksatation OS: Ubuntu Desktop
-- All administrarion is performed via SSH
-## Aechitecture Diagram
+- Workstation OS: Ubuntu Desktop
+- All administration is performed via SSH.
 
-## Network 
+## Architecture Diagram
+
+## Network
 Server IP: **192.168.1.115**
-Connection from workstation:
-## Baseline Evidenve ( Server Output via SSH)
-place screenshots in: `assets/imgs/week1/`
+
+SSH from the workstation:
+
+## Baseline Evidence (Server Output via SSH)
+Screenshots go in `assets/imgs/week1/`.
 ## Reflection
-The environment is now successfully configured. SSH access enables secure, remore-only administration which supports llater performance monitoring and security auditing tasks.
+Environment is configured; SSH enables secure remote administration. Next: Week 2 — Security Plan & Threat Model.
