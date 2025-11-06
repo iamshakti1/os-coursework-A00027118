@@ -1,0 +1,9 @@
+theme: minima
+title: OS Coursework Journal
+descripton: CMPN202 Technical Journal (Week 1-7)
+
+cat << 'EOF' > _config.yml
+theme: minima
+title: OS Coursework Journal
+descripton: CMPN202 Technical Journal (Week 1-7)
+
