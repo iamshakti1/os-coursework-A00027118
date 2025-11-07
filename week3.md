@@ -7,10 +7,11 @@
 - Tested file access for `student1` and `student2`
 
 ### Week 3 Summary
-In Week 3, I learned how Linux file permissions and ownership control user access.  
-Using commands such as `chmod` and `chown`, I was able to restrict file access so that only the owner  
-(student1) could read the file, while another user (student2) was denied permission.  
-This helped me understand how permissions (read, write, execute) and ownership keep files secure.
+In Week 3, I explored Linux file management and permissions.  
+I created a directory and a file, then used `chmod` to restrict access so only the file owner could read and write to it.  
+Using the `chown` command, I changed the ownership of the file to `student1`.  
+When logged in as `student1`, I was able to read the file successfully, but `student2` received a **Permission denied** error.  
+This exercise showed how Linux permissions (`rwx`) and ownership help secure files in a multi-user system.
 
 ### Evidence Screenshots
 ![Week 3 Evidence 1](assets/imgs/week3/Screenshot6.png)
