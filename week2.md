@@ -19,7 +19,3 @@ In Week 2, I focused on **user management and privilege control** in Ubuntu. I c
 layout: default
 title: Week 2
 ---
-
-# Week 2
-
-Content coming soon.
