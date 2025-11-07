@@ -13,9 +13,10 @@ Using commands such as `chmod` and `chown`, I was able to restrict file access s
 This helped me understand how permissions (read, write, execute) and ownership keep files secure.
 
 ### Evidence Screenshots
-![Evidence 1](assets/imgs/week3/Screenshot6.png)
-![Evidence 2](assets/imgs/week3/Screenshot7.png)
-![Evidence 3](assets/imgs/week3/Screenshot8.png)
+![Week 3 Evidence 1](assets/imgs/week3/Screenshot6.png)
+![Week 3 Evidence 2](assets/imgs/week3/Screenshot7.png)
+![Week 3 Evidence 3](assets/imgs/week3/Screenshot8.png)
+
 
 ---
 layout: default
