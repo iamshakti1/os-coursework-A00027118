@@ -13,22 +13,15 @@ title: Week 5 — Process Management
 - Verified process termination with `ps aux | grep sleep`
 
 ### Week 5 Summary
-In Week 5, I learned how Linux manages running processes.  
-Using `ps aux`, I viewed all active system and user processes, including their CPU and memory usage.  
-I then explored real-time process monitoring with `top`, which updates dynamically.  
-Next, I created a background process using `sleep 300`, checked it with `jobs`, and stopped it using `kill`.  
-Finally, I confirmed that the process had ended successfully.  
-This exercise helped me understand how administrators monitor and control processes in Linux effectively.
+In Week 5, I explored Linux process management.  
+Using `ps aux`, I viewed all running processes and learned how to identify system and user activities.  
+With the `top` command, I monitored CPU and memory usage in real time.  
+I then created a background process using `sleep 300`, viewed it with `jobs`, and terminated it using `kill`.  
+Finally, I verified that the process was successfully terminated.  
+This week helped me understand how to control and monitor processes in Linux effectively.
 
 ### Evidence Screenshots
 ![Week 5 Evidence 1](assets/imgs/week5/Screenshot10.png)
 ![Week 5 Evidence 2](assets/imgs/week5/Screenshot16.png)
-![Week 5 Evidence 3](assets/imgs/week5/Screenshot19.png)
----
-layout: default
-title: Week 5
----
+![Week 5 Evidence 3](assets/imgs/week5/Screenshot17.png)
 
-# Week 5
-
-Content coming soon.
