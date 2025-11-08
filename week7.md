@@ -1,30 +1,25 @@
 ---
 layout: default
-title: Week 7
+title: Week 7 — Shell Scripting and System Reporting
 ---
 
-# Week 7 — (Topic Title)
+# Week 7 — Shell Scripting and System Reporting
 
-- (Main point 1)
-- (Main point 2)
-- (Main point 3)
+## Tasks Completed
+- Created a simple `script1.sh` to print a greeting, date, current directory and list files.
+- Made the script executable and ran it from the terminal.
+- Wrote `system_report.sh` to collect system information into `system_report.txt`.
+- Captured disk usage and top memory-using processes using commands like `df -h` and `ps aux`.
 
-### Week 7 Summary
-In Week 7, I explored _____.  
-I practiced _____, learned how to _____, and verified _____ using Linux commands.  
-This week helped me gain confidence in _____ and understand how _____ works.
+## Week 7 Summary
+In Week 7, I learned how shell scripts can automate routine system administration tasks.  
+I started with a basic script that echoed system details, then created a more advanced
+`system_report.sh` script which gathers the date, uptime, disk usage and the top memory-using
+processes into a report file. This helped me understand how to combine Linux commands,
+redirection and permissions to build useful, repeatable tools.
 
-### Evidence Screenshots
-![Week 7 Evidence 1](assets/imgs/week7/Screenshot22.png)  
+## Evidence Screenshots
+![Week 7 Evidence 1](assets/imgs/week7/Screenshot22.png)
 ![Week 7 Evidence 2](assets/imgs/week7/Screenshot23.png)
-![Week 7 Evidence 2](assets/imgs/week7/Screenshot24.png)
-![Week 7 Evidence 2](assets/imgs/week7/Screenshot25.png)
-
----
-layout: default
-title: Week 7
----
-
-# Week 7
-
-Content coming soon.
+![Week 7 Evidence 3](assets/imgs/week7/Screenshot24.png)
+![Week 7 Evidence 4](assets/imgs/week7/Screenshot25.png)
