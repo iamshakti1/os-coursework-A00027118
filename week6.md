@@ -29,7 +29,3 @@ on the system. These steps helped me understand how to quickly diagnose common n
 layout: default
 title: Week 6
 ---
-
-# Week 6
-
-Content coming soon.
