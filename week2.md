@@ -2,6 +2,7 @@
 layout: default
 title: Week 2 – User Management and Privileges
 ---
+
 **Quick Navigation**  
 [Week 1](week1.html) | [Week 2](week2.html) | [Week 3](week3.html) | [Week 4](week4.html) | [Week 5](week5.html) | [Week 6](week6.html) | [Week 7](week7.html)
 
@@ -19,8 +20,3 @@ In Week 2, I focused on **user management and privilege control** in Ubuntu. I c
 ![Screenshot 5](assets/imgs/week2/Screenshot%205.png)
 
 
-
----
-layout: default
-title: Week 2
----
