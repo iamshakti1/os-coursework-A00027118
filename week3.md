@@ -25,11 +25,4 @@ This exercise showed how Linux permissions (`rwx`) and ownership help secure fil
 ![Week 3 Evidence 3](assets/imgs/week3/Screenshot8.png)
 
 
----
-layout: default
-title: Week 3
----
 
-# Week 3
-
-Content coming soon.
