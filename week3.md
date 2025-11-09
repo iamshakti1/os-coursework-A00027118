@@ -1,4 +1,6 @@
 ## Week 3 — File Management and Permissions
+**Quick Navigation**  
+[Week 1](week1.html) | [Week 2](week2.html) | [Week 3](week3.html) | [Week 4](week4.html) | [Week 5](week5.html) | [Week 6](week6.html) | [Week 7](week7.html)
 
 ### Tasks Completed
 - Created directory `permissions_test` and file `testfile.txt`
