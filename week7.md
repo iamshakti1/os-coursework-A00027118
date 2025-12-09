@@ -29,3 +29,17 @@ redirection and permissions to build useful, repeatable tools.
 ![Week 7 Evidence 2](assets/imgs/week7/Screenshot23.png)
 ![Week 7 Evidence 3](assets/imgs/week7/Screenshot24.png)
 ![Week 7 Evidence 4](assets/imgs/week7/Screenshot25.png)
+
+
+## AI Use Statement
+
+Some explanations, structure guidance and script formatting in this coursework were supported by ChatGPT.  
+All Linux commands, configurations and screenshots were executed and verified independently on my own Ubuntu system.
+
+## References
+
+[1] OpenAI, “ChatGPT responses supporting explanation and structure,” ChatGPT, Nov.–Dec. 2025. Accessed: Dec. 09, 2025. Online: https://chat.openai.com/
+
+[2] Canonical, “Command line for beginners,” Ubuntu Documentation. Accessed: Dec. 09, 2025. Online: https://ubuntu.com/tutorials/command-line-for-beginners
+
+[3] GitHub Docs, “Using personal access tokens,” GitHub Documentation. Accessed: Dec. 09, 2025. Online: https://docs.github.com/
