@@ -23,5 +23,4 @@ This exercise demonstrated how file compression and archiving help reduce storag
 
 ### Evidence Screenshot
 ![Week 4 Evidence](assets/imgs/week4/Screenshot9.png)
----
 
