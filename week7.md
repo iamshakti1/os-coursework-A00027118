@@ -7,7 +7,7 @@ title: Week 7 — Shell Scripting and System Reporting
 
 
 # Week 7 — Shell Scripting and System Reporting
-### 🧠 Final Reflection
+###  Final Reflection
 
 Over the course of Weeks 1 to 7, I developed a deeper understanding of Linux system administration and the core principles behind operating systems. Starting from basic setup and user management, I progressed through file permissions, compression, process control, networking, and automation with shell scripting. Each task strengthened my ability to use command-line tools effectively and to think systematically when solving problems. This journal reflects my growth in both technical skills and confidence using Linux for real-world system management tasks.
 
