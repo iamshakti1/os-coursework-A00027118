@@ -28,7 +28,4 @@ on the system. These steps helped me understand how to quickly diagnose common n
 
 ![Week 6 Evidence 1](assets/imgs/week6/Screenshot20.png)
 ![Week 6 Evidence 2](assets/imgs/week6/Screenshot21.png)
----
-layout: default
-title: Week 6
----
+
