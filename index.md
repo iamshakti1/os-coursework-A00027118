@@ -1,14 +1,9 @@
-\---
-layout: default
-title: Operating Systems Coursework Journal
----
-
-# 🧩 Operating Systems Coursework Journal (A00027118)
+#  Operating Systems Coursework Journal (A00027118)
 
 Welcome to my OS coursework journal.  
 This site documents my weekly progress and learning from Week 1 to Week 7.
 
-## 📚 Weekly Journal Links
+##  Weekly Journal Links
 
 - [Week 1 — System Setup and Baseline Evidence](week1.html)
 - [Week 2 — User Management and Privileges](week2.html)
