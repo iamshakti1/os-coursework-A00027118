@@ -29,7 +29,7 @@ redirection and permissions to build useful, repeatable tools.
 ![Week 7 Evidence 2](assets/imgs/week7/Screenshot23.png)
 ![Week 7 Evidence 3](assets/imgs/week7/Screenshot24.png)
 ![Week 7 Evidence 4](assets/imgs/week7/Screenshot25.png)
-![Week 7 Evidence](assets/imgs/week7/week7-proof.png)
+![Week 7 Evidence](assets/imgs/week7/Week%207%20proof.png)
 
 
 ## AI Use Statement
