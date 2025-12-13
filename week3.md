@@ -27,6 +27,6 @@ This exercise showed how Linux permissions (`rwx`) and ownership help secure fil
 ![Week 3 Evidence 1](assets/imgs/week3/Screenshot6.png)
 ![Week 3 Evidence 2](assets/imgs/week3/Screenshot7.png)
 ![Week 3 Evidence 3](assets/imgs/week3/Screenshot8.png)
-
+When attempting to modify file permissions as a non-owner user, the system returned a “Permission denied” error. This behaviour demonstrates how Linux enforces ownership and permission rules to protect files in a multi-user environment.
 
 
